@@ -1,4 +1,4 @@
-# git_basics
+# Guray git_basics
 * Basics of git
 
 ----
